@@ -26,7 +26,7 @@
  ******************************************************************************/
 
 // Pfad, unter dem die Datenpunkte angelegt werden sollen, mit abschließendem Punkt "."
-const STATEPATH = 'javascript.0.mic.Heizung._Urlaubsmodus.';
+const STATEPATH = 'javascript.0.Heizung._Urlaubsmodus.';
 
 // Wie viele unterschiedliche Urlaube zur Vorausplanung?
 // Mehr als 10-20 machen wohl keinen Sinn, es sei denn ständig unterwegs :-)
