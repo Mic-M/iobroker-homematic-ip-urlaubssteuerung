@@ -12,7 +12,7 @@
  *  - Homematic IP Heizkörperthermostate (getestet mit: HmIP-eTRV-2)
  * ----------------------------------------------------
  * Quelle: https://github.com/Mic-M/iobroker.homematic-ip-urlaubssteuerung
- * Support: https://forum.iobroker.net/
+ * Support: https://forum.iobroker.net/topic/22140/
  * ----------------------------------------------------
  * Change Log:
  *  0.1 Mic - Initial Release
